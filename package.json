@@ -1,0 +1,13 @@
+{
+  "name": "node_server",
+  "version": "1.0.0",
+  "description": "Este é um exemplo muito simples de um servidor Node.js. Você pode expandir este projeto adicionando   mais  rotas, manipulação de solicitações, middleware, etc., conforme necessário para o seu aplicativo específico. ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["node.js", "Marcio Carvalho", "node_server"],
+  "author": "Marcio J. Carvalho",
+  "license": "MIT"
+}
